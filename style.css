@@ -1,0 +1,260 @@
+@import url('https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap');
+body#index{
+    background-image: url("https://res.cloudinary.com/mahadabdishakur/image/upload/v1638158166/one_peiece_olhxev.jpg");
+}
+nav a{
+    display: flex;
+    justify-content: space-between;
+}
+nav a:hover{
+color: #adadad;
+}
+h1{
+    margin-left: 100px;
+    font-family: Rock Salt;
+}
+h2{
+text-align: center;
+}
+h3{
+    text-align: center;
+    }
+.brand-logo{
+    height: 150px;
+    width: 150px;
+    display: flex;
+}
+body#arcs{
+    background-image: url("https://res.cloudinary.com/mahadabdishakur/image/upload/v1638162992/one_piece_map_sxn8co.jpg");
+   
+}
+option{
+    display:block;
+    height: 50px;
+    width: 50px;
+    background-color: blueviolet;
+}
+body#charecters{
+    background-image: url("https://res.cloudinary.com/mahadabdishakur/image/upload/v1638215023/waterposterbakcgorund_vwrhlp.jpg");
+   
+}
+.crumb {
+    justify-content: space-between;
+	
+	display: inline;
+    text-decoration: none;
+}
+.container{
+    display: inline-block;
+    height:400px;
+    width:250px;
+    margin-left: 70px;
+    margin-top: 5px;
+    justify-content: space-around;
+    border-style: dotted;
+    flex-wrap:wrap;
+    background-color: blanchedalmond;
+}
+#favorite{
+    padding: 32px 16px;
+    background-color:burlywood;
+}
+.container1{
+    display: inline-block;
+    height:400px;
+    width:250px;
+    margin-left: 70px;
+    margin-top: 5px;
+    justify-content: space-around;
+    border-style: dotted;
+    flex-wrap:wrap;
+    background-color: blanchedalmond;
+}
+.container:hover{
+    background-color: #888;
+}
+.container1:hover{
+    background-color: #888;
+}
+.belly{
+height: 25px;
+width:20px;
+}
+#bounty{
+ height: 10px;
+ width: 30px;
+ text-align: center;
+ 
+}
+p{
+   height:auto;
+   width: auto; 
+}
+.ars-containers{
+    border-style: dashed;
+    height: auto;
+    width:400px;
+    background-color:#FCA311;
+    display: inline-block;
+    justify-content: center;
+}
+.ars-containers:hover{
+background-color: gold;
+}
+
+#wanted-board{
+    height: 2020px;
+    width: 1560px;
+    border-style: dotted;
+    flex-wrap: wrap;
+    
+    
+}
+
+form {
+    background-image: url("https://res.cloudinary.com/mahadabdishakur/image/upload/v1638397080/blankpage_dttu7o.jpg");
+    color:white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 300px;
+    width: 200px;
+    margin-top: 20px;
+}
+
+.wanted{
+
+height:400px;
+width:250px;
+margin-left: 5px;
+}
+#Wano{
+    margin-left: 650px;
+}
+.saga{
+    height:auto;
+    width:350px;
+    display:flex;
+    margin-left: 30px;
+}
+.luffy{
+    display:flex;
+    width:250px;
+    height:150px;
+}
+.luffy:hover{
+    content:url("https://res.cloudinary.com/mahadabdishakur/image/upload/v1638298457/luffy_dodging_rhtaim.gif");
+}
+.zoro{
+    
+    display:flex;
+    width:250px;
+    height:150px;
+}
+.zoro:hover{
+    content:url("https://res.cloudinary.com/mahadabdishakur/image/upload/v1638298458/zoro_fighting_lydd7d.gif");
+}
+.nami{
+    
+    width: 250px;
+    height: 150px;
+}
+.nami:hover{
+    content:url("https://res.cloudinary.com/mahadabdishakur/image/upload/v1638298457/nami_gold_covzjt.gif");
+}
+.sanji{
+    display:flex;
+    width:250px;
+    height:150px;
+}
+.sanji:hover{
+    content:url("https://res.cloudinary.com/mahadabdishakur/image/upload/v1638298490/sanji_fighting_ehnkbf.gif");
+}
+.usopp{
+    
+    display:flex;
+    width:250px;
+    height:150px;
+}
+.usopp:hover{
+    content:url("https://res.cloudinary.com/mahadabdishakur/image/upload/v1638299127/sogeking_rfwpag.gif");
+}
+.chopper{
+    
+    display:flex;
+    width:250px;
+    height:250px;;
+}
+.chopper:hover{
+    content:url("https://res.cloudinary.com/mahadabdishakur/image/upload/v1638298698/chopper_xob1w0.gif");
+}
+.robin{
+    
+    width: 250px;
+    height: 250px;
+}
+
+.robin:hover{
+    content:url("https://res.cloudinary.com/mahadabdishakur/image/upload/v1638298777/nico_robine_123_cz2ftz.gif");
+}
+.franky{
+    
+    width: 250px;
+    height: 250px;
+}
+.franky:hover{
+    content:url("https://res.cloudinary.com/mahadabdishakur/image/upload/v1638298904/super_gif_npryi6.gif");
+}
+.jinbei{
+    
+    width: 250px;
+    height: 250px;
+}
+.jinbei:hover{
+    content:url("https://res.cloudinary.com/mahadabdishakur/image/upload/v1638299120/jinbei_fighting_qfvlp4.gif");
+}
+.brook{
+    
+    width: 250px;
+    height: 250px;
+}
+.brook:hover{
+    content:url("https://res.cloudinary.com/mahadabdishakur/image/upload/v1638299125/brook_gif_rezj5c.gif");
+}
+/* The Modal (background) */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+  }
+  
+  /* Modal Content/Box */
+  .modal-content {
+    background-color:blanchedalmond;
+    margin: 15% auto; /* 15% from the top and centered */
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%; /* Could be more or less, depending on screen size */
+  }
+  
+  /* The Close Button */
+  .close{
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+  }
+  
+  .close:hover,
+  .close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+  }
